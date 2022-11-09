@@ -43,4 +43,4 @@ Cliquez sur le lien suivant pour accéder à la deuxieme partie : [Les Points Ch
 #### Q9 : En utilisant la même technique qu'à la question 5, avec l'aide de la couche "Volcanic Hotspot", determinez combien il y a de point chaud actif sur Terre et combien sont sur un continent. 
 -> la formule de recherche est la suivante : "Volcanic Hotspot intersecte Continents"
 
-### Q10 : Quel est le continent qui comporte le plus de points chauds ? Celui qui en a le moins ? le resultat à cette question vous surprend t il ? 
+#### Q10 : Quel est le continent qui comporte le plus de points chauds ? Celui qui en a le moins ? le resultat à cette question vous surprend t il ? 
